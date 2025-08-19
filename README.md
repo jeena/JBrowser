@@ -1,3 +1,5 @@
+⚠️ This repository has moved to https://git.jeena.net/jeena/JBrowser
+
 JBrowser error demo
 ===================
 
